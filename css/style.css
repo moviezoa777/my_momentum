@@ -1,0 +1,46 @@
+/* 공통 스타일 ========== */
+.center {
+    margin: 0 auto;
+}
+
+
+
+/* body 스타일 ========== */
+body {
+    width: 100vw;
+    height: 100vh;
+    background: url("../images/background01.jpg") no-repeat center center;
+    background-size: cover;
+}
+.title {
+    margin-top: 9rem;
+    width: 350px;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    background-color: #FCF6F5;
+    color:  #2BAE66;
+}
+#movie-form {
+    width: 350px; 
+}
+#movie-form input {
+    margin-top: 1rem;
+    width: 260px;
+    height: 40px;
+    border: 0px;
+}
+#movie-form button {
+    margin-left: 0.5rem;
+    width: 76px;
+    height: 40px;
+    text-align: center;
+    background-color: #2BAE66;
+    color: #FCF6F5;
+    border: 0px;
+}
+
+#movie-list {
+   
+}
+
