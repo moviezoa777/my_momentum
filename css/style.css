@@ -29,6 +29,7 @@ body {
     width: 260px;
     height: 40px;
     border: 0px;
+    background-color: #FCF6F5;
 }
 #movie-form button {
     margin-left: 0.5rem;
@@ -41,6 +42,16 @@ body {
 }
 
 #movie-list {
-   
+    width: 350px;
+
 }
 
+#movie-list li {
+    height: 40px;
+    line-height: 40px;
+    background-color: #2BAE66;
+    color:  #FCF6F5;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 1.5rem;
+}
