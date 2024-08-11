@@ -54,4 +54,13 @@ body {
     text-align: center;
     border-radius: 10px;
     margin-top: 1.5rem;
+    position: relative;
+}
+#movie-list li img {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 5px; 
+    right: 10px;
+
 }
